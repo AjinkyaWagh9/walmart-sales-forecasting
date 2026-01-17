@@ -1,0 +1,26 @@
+Model: Linear Regression (Baseline)
+
+Target Variable:
+- Weekly_Sales
+
+Features Used:
+- Store
+- Dept
+- Year
+- Month
+- Week
+- IsHoliday
+
+Train-Test Split:
+- 80% Train
+- 20% Test
+- Random State: fixed
+
+Evaluation Metrics:
+- MAE  : 15125.90
+- RMSE : 22482.37
+
+Notes:
+- This model serves as a baseline reference.
+- Accuracy optimization was not the objective.
+- The goal is to validate the end-to-end ML pipeline.
