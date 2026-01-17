@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Data (raw datasets not tracked)
+data/raw/
+Data/
+Notebooks/
+
+# IDE
+.vscode/
+
+# Misc
+.ipynb_checkpoints/
